@@ -67,4 +67,3 @@ Arac-Kiralama-Sistemi/
 
 [Muhammet Ali Bayrak](https://github.com/MuhammetAliBayrak61)
 
-Bu proje ekip çalışması ise diğer katkı sağlayan geliştiriciler de eklenebilir.
